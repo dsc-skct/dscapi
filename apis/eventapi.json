@@ -1,7 +1,7 @@
 {
     "name": "DSC SKCT",
     "mail": "dscskct@gmail.com",
-    "events": {
+    "events": [{
         "event1": {
             "Topic": "Teach For India",
             "Date": "14/07/2001",
@@ -37,5 +37,5 @@
             "image":"https://dsc-skct.github.io/dscapi/images/a.jpg",
             "Learnmore":"https://dsc-skct.github.io/dscapi/images/a.jpg"
         }
-    }
+    }]
 }
