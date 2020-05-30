@@ -1,29 +1,12 @@
 {
-    "name": "Gaurav Ghati",
-    "phone": "+91 9067365762",
-    "mail": "gauravghati225@gmail.com",
-
-    "bio": "MY BIO",
-    "fun": "FUN STATEMENT",
-
-    "github": "https://github.com/gauravghati/",
-    "twitter": "https://twitter.com/GauravGhati/",
-    "linkedin": "http://linkedin.com/in/gauravghati/",
-
-    "aboutme": {
-        "para1": "This is Paragraph 1",
-        "para2": "This is Paragraph 2"
-    },
-
-    "volunteer": {
-        "tfi": {
+    "name": "DSC SKCT",
+    "mail": "dscskct@gmail.com",
+    "events": {
+        "event1": {
             "heading": "Teach For India",
-            "description": "description of TFI",
-            "image":"https://dsc-skct.github.io/dscapi/images/a.jpg"
-        },
-        "pisb": {
-            "heading": "PICT IEEE Student Branch",
-            "description": "description of PISB"
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "image":"https://dsc-skct.github.io/dscapi/images/a.jpg",
+            "link":"https://dsc-skct.github.io/dscapi/images/a.jpg"
         }
     }
 }
