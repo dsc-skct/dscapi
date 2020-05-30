@@ -18,7 +18,8 @@
     "volunteer": {
         "tfi": {
             "heading": "Teach For India",
-            "description": "description of TFI"
+            "description": "description of TFI",
+            "image":"https://dsc-skct.github.io/dscapi/images/a.jpg"
         },
         "pisb": {
             "heading": "PICT IEEE Student Branch",
